@@ -10,3 +10,4 @@
 - [Yum只下载不安装](https://github.com/fanhuadesenlinnn/blog2/issues/8)
 - [主机设置安装启动](https://github.com/fanhuadesenlinnn/blog2/issues/7)
 - [bash中读取文件的方法](https://github.com/fanhuadesenlinnn/blog2/issues/6)
+- [Windows10开机自动开启热点](https://github.com/fanhuadesenlinnn/blog2/issues/9)
