@@ -11,3 +11,7 @@
 - [主机设置安装启动](https://github.com/fanhuadesenlinnn/blog2/issues/7)
 - [bash中读取文件的方法](https://github.com/fanhuadesenlinnn/blog2/issues/6)
 - [Windows10开机自动开启热点](https://github.com/fanhuadesenlinnn/blog2/issues/9)
+- [windows 后台运行程序](https://github.com/fanhuadesenlinnn/blog2/issues/10)
+- [Oracle 11g 静默安装脚本](https://github.com/fanhuadesenlinnn/blog2/issues/11)
+- [使用sshpass工具自动完成ssh相关操作](https://github.com/fanhuadesenlinnn/blog2/issues/12)
+- [Ansible playbook脚本](https://github.com/fanhuadesenlinnn/blog2/issues/13)
