@@ -15,3 +15,4 @@
 - [Oracle 11g 静默安装脚本](https://github.com/fanhuadesenlinnn/blog2/issues/11)
 - [使用sshpass工具自动完成ssh相关操作](https://github.com/fanhuadesenlinnn/blog2/issues/12)
 - [Ansible playbook脚本](https://github.com/fanhuadesenlinnn/blog2/issues/13)
+- [记录好用需要用的软件](https://github.com/fanhuadesenlinnn/blog2/issues/14)
