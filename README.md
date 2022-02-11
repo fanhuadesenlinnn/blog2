@@ -18,3 +18,4 @@
 - [Ansible playbook脚本](https://github.com/fanhuadesenlinnn/blog2/issues/13)
 - [记录好用需要用的软件](https://github.com/fanhuadesenlinnn/blog2/issues/14)
 - [Ubuntu ca问题（刚开始更换清华源报错问题）](https://blog.csdn.net/qq_33838671/article/details/120684569)
+- [【已解决】VMware中安装ArchLinux不能全屏的(虚拟机工具、驱动等齐全)](https://github.com/fanhuadesenlinnn/blog2/issues/16)
